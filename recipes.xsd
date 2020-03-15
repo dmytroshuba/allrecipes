@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Recipes" type="RecipesType"/>
+  <xs:complexType name="RecipeType">
+    <xs:sequence>
+      <xs:element name="Title">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Mini Frittatas with Hillshire Farm® Smoked Sausage and Potato"/>
+            <xs:enumeration value="Ground Beef Enchiladas"/>
+            <xs:enumeration value="Biscuits and Gravy Casserole"/>
+            <xs:enumeration value="Low-Carb Salisbury Steak"/>
+            <xs:enumeration value="Easy Garlic-Lemon Scallops"/>
+            <xs:enumeration value="Brown Sugar Banana Bread"/>
+            <xs:enumeration value="Cousin David's Slow Cooker Brisket"/>
+            <xs:enumeration value="Breakfast Pies"/>
+            <xs:enumeration value="California Melt"/>
+            <xs:enumeration value="Beef and Vegetable Stew"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="Link">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="https://www.allrecipes.com/recipe/263774/mini-frittatas-with-hillshire-farm-smoked-sausage-and-potato/"/>
+            <xs:enumeration value="https://www.allrecipes.com/recipe/24263/ground-beef-enchiladas/"/>
+            <xs:enumeration value="https://www.allrecipes.com/recipe/245119/biscuits-and-gravy-casserole/"/>
+            <xs:enumeration value="https://www.allrecipes.com/recipe/261774/low-carb-salisbury-steak/"/>
+            <xs:enumeration value="https://www.allrecipes.com/recipe/132358/easy-garlic-lemon-scallops/"/>
+            <xs:enumeration value="https://www.allrecipes.com/recipe/214581/brown-sugar-banana-bread/"/>
+            <xs:enumeration value="https://www.allrecipes.com/recipe/70096/cousin-davids-slow-cooker-brisket/"/>
+            <xs:enumeration value="https://www.allrecipes.com/recipe/49629/breakfast-pies/"/>
+            <xs:enumeration value="https://www.allrecipes.com/recipe/60037/california-melt/"/>
+            <xs:enumeration value="https://www.allrecipes.com/recipe/15431/beef-and-vegetable-stew/"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="Rating">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Rated 4.62 out of 5 stars"/>
+            <xs:enumeration value="Rated 4.45 out of 5 stars"/>
+            <xs:enumeration value="Rated 4.59 out of 5 stars"/>
+            <xs:enumeration value="Rated 4.56 out of 5 stars"/>
+            <xs:enumeration value="Rated 4.46 out of 5 stars"/>
+            <xs:enumeration value="Rated 4.24 out of 5 stars"/>
+            <xs:enumeration value="Rated 4.49 out of 5 stars"/>
+            <xs:enumeration value="Rated 4.44 out of 5 stars"/>
+            <xs:enumeration value="Rated 4.18 out of 5 stars"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="Description">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Bake these fun mini frittatas in a muffin tin for a satisfying on-the-go snack filled with smoked sausage, hash browns, and bell pepper."/>
+            <xs:enumeration value="These are beef filled tortilla shells baked in a creamy chicken soup and cheese sauce.  My husband absolutely loves these. I served them to guests once with Mexican rice, and they went home with the recipe!  Enjoy!"/>
+            <xs:enumeration value="Biscuits, eggs, gravy, sausage, and Cheddar cheese are baked together using this biscuits and gravy casserole recipe for the ultimate comfort food."/>
+            <xs:enumeration value="Homemade mushroom gravy takes the flavor of simple hamburger steaks to the next level. It's still quick enough to cook for a weeknight dinner."/>
+            <xs:enumeration value="Scallops sauteed in butter and garlic will melt in your mouth. Lemon juice gives it a nice kick."/>
+            <xs:enumeration value="Brown sugar and cinnamon add depth to this moist, sweet banana bread."/>
+            <xs:enumeration value="This is a family recipe passed along by my late cousin David.  It is so simple...just four ingredients thrown in the slow cooker!  Not only is it great to come home to a hot delicious meal...your home will smell wonderful too!  It is great with the extra gravy spooned over egg noodles or mashed potatoes."/>
+            <xs:enumeration value="A biscuit crust filled with sausage, eggs, and cheese. These individual breakfast pies can be made ahead of time, and microwaved as needed. "/>
+            <xs:enumeration value="This fresh and easy open-face melt is made with avocado, mushrooms, almonds, and tomato. Ready in minutes!"/>
+            <xs:enumeration value="Button mushrooms and peas are the final ingredients added to this low-fat  rosemary seasoned stew.  Serve as is or over cooked noodles."/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="Author">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="By Hillshire Farm(R) Brand"/>
+            <xs:enumeration value="By Vanessa Robbins"/>
+            <xs:enumeration value="By Angela"/>
+            <xs:enumeration value="By Chef DJ"/>
+            <xs:enumeration value="By Button"/>
+            <xs:enumeration value="By The D Family"/>
+            <xs:enumeration value="By DRUMNWRITE"/>
+            <xs:enumeration value="By CRANEJWR"/>
+            <xs:enumeration value="By ORNERY"/>
+            <xs:enumeration value="By Marianne"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="AuthorLink">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="https://www.allrecipes.com/cook/hillshirefarm/"/>
+            <xs:enumeration value="https://www.allrecipes.com/cook/vanessa.robbins@home.com/"/>
+            <xs:enumeration value="https://www.allrecipes.com/cook/11934923/"/>
+            <xs:enumeration value="https://www.allrecipes.com/cook/chef_dj/"/>
+            <xs:enumeration value="https://www.allrecipes.com/cook/1528980/"/>
+            <xs:enumeration value="https://www.allrecipes.com/cook/4534050/"/>
+            <xs:enumeration value="https://www.allrecipes.com/cook/742629/"/>
+            <xs:enumeration value="https://www.allrecipes.com/cook/569996/"/>
+            <xs:enumeration value="https://www.allrecipes.com/cook/802919/"/>
+            <xs:enumeration value="https://www.allrecipes.com/cook/olgit@earthlink.net/"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="RecipesType">
+    <xs:sequence>
+      <xs:element type="RecipeType" name="Recipe" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
