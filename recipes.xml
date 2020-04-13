@@ -1,1 +1,102 @@
-<Recipes><Recipe><Title>Mini Frittatas with Hillshire Farm&#174; Smoked Sausage and Potato</Title><Link>https://www.allrecipes.com/recipe/263774/mini-frittatas-with-hillshire-farm-smoked-sausage-and-potato/</Link><Rating>Rated 4.62 out of 5 stars</Rating><Description>Bake these fun mini frittatas in a muffin tin for a satisfying on-the-go snack filled with smoked sausage, hash browns, and bell pepper.</Description><Author>By Hillshire Farm(R) Brand</Author><AuthorLink>https://www.allrecipes.com/cook/hillshirefarm/</AuthorLink></Recipe><Recipe><Title>Ground Beef Enchiladas</Title><Link>https://www.allrecipes.com/recipe/24263/ground-beef-enchiladas/</Link><Rating>Rated 4.45 out of 5 stars</Rating><Description>These are beef filled tortilla shells baked in a creamy chicken soup and cheese sauce.  My husband absolutely loves these. I served them to guests once with Mexican rice, and they went home with the recipe!  Enjoy!</Description><Author>By Vanessa Robbins</Author><AuthorLink>https://www.allrecipes.com/cook/vanessa.robbins@home.com/</AuthorLink></Recipe><Recipe><Title>Biscuits and Gravy Casserole</Title><Link>https://www.allrecipes.com/recipe/245119/biscuits-and-gravy-casserole/</Link><Rating>Rated 4.59 out of 5 stars</Rating><Description>Biscuits, eggs, gravy, sausage, and Cheddar cheese are baked together using this biscuits and gravy casserole recipe for the ultimate comfort food.</Description><Author>By Angela</Author><AuthorLink>https://www.allrecipes.com/cook/11934923/</AuthorLink></Recipe><Recipe><Title>Low-Carb Salisbury Steak</Title><Link>https://www.allrecipes.com/recipe/261774/low-carb-salisbury-steak/</Link><Rating>Rated 4.56 out of 5 stars</Rating><Description>Homemade mushroom gravy takes the flavor of simple hamburger steaks to the next level. It's still quick enough to cook for a weeknight dinner.</Description><Author>By Chef DJ</Author><AuthorLink>https://www.allrecipes.com/cook/chef_dj/</AuthorLink></Recipe><Recipe><Title>Easy Garlic-Lemon Scallops</Title><Link>https://www.allrecipes.com/recipe/132358/easy-garlic-lemon-scallops/</Link><Rating>Rated 4.59 out of 5 stars</Rating><Description>Scallops sauteed in butter and garlic will melt in your mouth. Lemon juice gives it a nice kick.</Description><Author>By Button</Author><AuthorLink>https://www.allrecipes.com/cook/1528980/</AuthorLink></Recipe><Recipe><Title>Brown Sugar Banana Bread</Title><Link>https://www.allrecipes.com/recipe/214581/brown-sugar-banana-bread/</Link><Rating>Rated 4.46 out of 5 stars</Rating><Description>Brown sugar and cinnamon add depth to this moist, sweet banana bread.</Description><Author>By The D Family</Author><AuthorLink>https://www.allrecipes.com/cook/4534050/</AuthorLink></Recipe><Recipe><Title>Cousin David's Slow Cooker Brisket</Title><Link>https://www.allrecipes.com/recipe/70096/cousin-davids-slow-cooker-brisket/</Link><Rating>Rated 4.24 out of 5 stars</Rating><Description>This is a family recipe passed along by my late cousin David.  It is so simple...just four ingredients thrown in the slow cooker!  Not only is it great to come home to a hot delicious meal...your home will smell wonderful too!  It is great with the extra gravy spooned over egg noodles or mashed potatoes.</Description><Author>By DRUMNWRITE</Author><AuthorLink>https://www.allrecipes.com/cook/742629/</AuthorLink></Recipe><Recipe><Title>Breakfast Pies</Title><Link>https://www.allrecipes.com/recipe/49629/breakfast-pies/</Link><Rating>Rated 4.49 out of 5 stars</Rating><Description>A biscuit crust filled with sausage, eggs, and cheese. These individual breakfast pies can be made ahead of time, and microwaved as needed. </Description><Author>By CRANEJWR</Author><AuthorLink>https://www.allrecipes.com/cook/569996/</AuthorLink></Recipe><Recipe><Title>California Melt</Title><Link>https://www.allrecipes.com/recipe/60037/california-melt/</Link><Rating>Rated 4.44 out of 5 stars</Rating><Description>This fresh and easy open-face melt is made with avocado, mushrooms, almonds, and tomato. Ready in minutes!</Description><Author>By ORNERY</Author><AuthorLink>https://www.allrecipes.com/cook/802919/</AuthorLink></Recipe><Recipe><Title>Beef and Vegetable Stew</Title><Link>https://www.allrecipes.com/recipe/15431/beef-and-vegetable-stew/</Link><Rating>Rated 4.18 out of 5 stars</Rating><Description>Button mushrooms and peas are the final ingredients added to this low-fat  rosemary seasoned stew.  Serve as is or over cooked noodles.</Description><Author>By Marianne</Author><AuthorLink>https://www.allrecipes.com/cook/olgit@earthlink.net/</AuthorLink></Recipe></Recipes>
+<Recipes>
+    <Recipe test="123" test1="1234">
+        <Title>testMini Frittatas with Hillshire Farm&#174; Smoked Sausage and Potato</Title>
+        <Link>https://www.allrecipes.com/recipe/263774/mini-frittatas-with-hillshire-farm-smoked-sausage-and-potato/
+        </Link>
+        <Rating>testRated 4.62 out of 5 stars</Rating>
+        <Description>Bake these fun mini frittatas in a muffin tin for a satisfying on-the-go snack filled with smoked
+            sausage, hash browns, and bell pepper.
+        </Description>
+        <Author>By Hillshire Farm(R) Brand</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/hillshirefarm/</AuthorLink>
+    </Recipe>
+    <Recipe test="123" test1="1234">
+        <Title>testGround Beef Enchiladas</Title>
+        <Link>https://www.allrecipes.com/recipe/24263/ground-beef-enchiladas/</Link>
+        <Rating>testRated 4.45 out of 5 stars</Rating>
+        <Description>These are beef filled tortilla shells baked in a creamy chicken soup and cheese sauce. My husband
+            absolutely loves these. I served them to guests once with Mexican rice, and they went home with the recipe!
+            Enjoy!
+        </Description>
+        <Author>By Vanessa Robbins</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/vanessa.robbins@home.com/</AuthorLink>
+    </Recipe>
+    <Recipe>
+        <Title>Biscuits and Gravy Casserole</Title>
+        <Link>https://www.allrecipes.com/recipe/245119/biscuits-and-gravy-casserole/</Link>
+        <Rating>Rated 4.59 out of 5 stars</Rating>
+        <Description>Biscuits, eggs, gravy, sausage, and Cheddar cheese are baked together using this biscuits and gravy
+            casserole recipe for the ultimate comfort food.
+        </Description>
+        <Author>By Angela</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/11934923/</AuthorLink>
+    </Recipe>
+    <Recipe>
+        <Title>Low-Carb Salisbury Steak</Title>
+        <Link>https://www.allrecipes.com/recipe/261774/low-carb-salisbury-steak/</Link>
+        <Rating>Rated 4.56 out of 5 stars</Rating>
+        <Description>Homemade mushroom gravy takes the flavor of simple hamburger steaks to the next level. It's still
+            quick enough to cook for a weeknight dinner.
+        </Description>
+        <Author>By Chef DJ</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/chef_dj/</AuthorLink>
+    </Recipe>
+    <Recipe>
+        <Title>Easy Garlic-Lemon Scallops</Title>
+        <Link>https://www.allrecipes.com/recipe/132358/easy-garlic-lemon-scallops/</Link>
+        <Rating>Rated 4.59 out of 5 stars</Rating>
+        <Description>Scallops sauteed in butter and garlic will melt in your mouth. Lemon juice gives it a nice kick.
+        </Description>
+        <Author>By Button</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/1528980/</AuthorLink>
+    </Recipe>
+    <Recipe>
+        <Title>Brown Sugar Banana Bread</Title>
+        <Link>https://www.allrecipes.com/recipe/214581/brown-sugar-banana-bread/</Link>
+        <Rating>Rated 4.46 out of 5 stars</Rating>
+        <Description>Brown sugar and cinnamon add depth to this moist, sweet banana bread.</Description>
+        <Author>By The D Family</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/4534050/</AuthorLink>
+    </Recipe>
+    <Recipe>
+        <Title>Cousin David's Slow Cooker Brisket</Title>
+        <Link>https://www.allrecipes.com/recipe/70096/cousin-davids-slow-cooker-brisket/</Link>
+        <Rating>Rated 4.24 out of 5 stars</Rating>
+        <Description>This is a family recipe passed along by my late cousin David. It is so simple...just four
+            ingredients thrown in the slow cooker! Not only is it great to come home to a hot delicious meal...your home
+            will smell wonderful too! It is great with the extra gravy spooned over egg noodles or mashed potatoes.
+        </Description>
+        <Author>By DRUMNWRITE</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/742629/</AuthorLink>
+    </Recipe>
+    <Recipe>
+        <Title>Breakfast Pies</Title>
+        <Link>https://www.allrecipes.com/recipe/49629/breakfast-pies/</Link>
+        <Rating>Rated 4.49 out of 5 stars</Rating>
+        <Description>A biscuit crust filled with sausage, eggs, and cheese. These individual breakfast pies can be made
+            ahead of time, and microwaved as needed.
+        </Description>
+        <Author>By CRANEJWR</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/569996/</AuthorLink>
+    </Recipe>
+    <Recipe>
+        <Title>California Melt</Title>
+        <Link>https://www.allrecipes.com/recipe/60037/california-melt/</Link>
+        <Rating>Rated 4.44 out of 5 stars</Rating>
+        <Description>This fresh and easy open-face melt is made with avocado, mushrooms, almonds, and tomato. Ready in
+            minutes!
+        </Description>
+        <Author>By ORNERY</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/802919/</AuthorLink>
+    </Recipe>
+    <Recipe>
+        <Title>Beef and Vegetable Stew</Title>
+        <Link>https://www.allrecipes.com/recipe/15431/beef-and-vegetable-stew/</Link>
+        <Rating>Rated 4.18 out of 5 stars</Rating>
+        <Description>Button mushrooms and peas are the final ingredients added to this low-fat rosemary seasoned stew.
+            Serve as is or over cooked noodles.
+        </Description>
+        <Author>By Marianne</Author>
+        <AuthorLink>https://www.allrecipes.com/cook/olgit@earthlink.net/</AuthorLink>
+    </Recipe>
+</Recipes>
